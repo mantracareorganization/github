@@ -1,0 +1,61 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="health++">
+    <meta property="og:site_name" content="health++">
+    <meta property="og:title" content="health++">
+    <meta property="og:description" content="health++ is a two-day event that will bring together 300 engineers, designers, business experts, and healthcare professionals - faculty and students alike - for a weekend of innovating in healthcare affordability, both domestically and globally.">
+    <meta property="og:image" content="https://healthplusplus.github.io/img/logo_colored.png">
+    <title>health++</title>
+
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Yantramanav:100,300,400,700" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="/remodal/dist/remodal.css">
+    <link rel="stylesheet" href="/remodal/dist/remodal-default-theme.css">
+<div class="row">
+                        <div class="col-md-6 col-md-offset-3">
+                            <a href="https://mantracare.org/" target="_blank" class="btn">MantraCare</a>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">
+                            <a href="https://mantracare.org/online-therapy-counseling/" target="_blank" class="btn">Online Therapy</a>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">
+                            <a href="https://mantracare.org/physiotherapy-treatment/" target="_blank" class="btn">Physiotherapy Treatment</a>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">
+                            <a href="https://mantracare.org/diabetes-treatment/" target="_blank" class="btn">Diabetes Treatment</a>
+                        </div>
+                    </div>
+		    
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">
+                            <a href="https://mantracare.org/hypertension/" target="_blank" class="btn">Hypertension Treatment</a>
+                        </div>
+                    </div>
+                    
+                   <head>
+                   </html>
